@@ -18,8 +18,11 @@ create generic programs, feed them into a GNN, and then train it.
 * A batch of graphs is feed into a GNN with a softmax classifier.
 * Message forwarding is performed, and the classification is optimized.
 
+Example of AST output with feature key in node:
 ![Intro](/imgs/Selection_260.png)
+Results for a training time of approximatley an hour:
 ![Intro](/imgs/Selection_265.png)
 ![Intro](/imgs/Selection_262.png)
+Example programs from our dataset:
 ![Intro](/imgs/Selection_263.png)
 
